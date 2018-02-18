@@ -118,6 +118,16 @@ h1 {
   background-color: #f2f2f2;
 }
 
+.elg {
+flex: 1;
+height: 80vh;
+overflow: hidden;
+}
+
+#elg {
+  width: 58.6%;
+}
+
 
 
 /* sektion 4 */
