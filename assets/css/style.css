@@ -63,7 +63,7 @@ h1 {
   line-height: 1.5;
   margin: auto;
   display: block;
-  background-color: deeppink;
+  /* background-color: deeppink; */
 }
 
 .about-text h2 {
@@ -77,14 +77,16 @@ h1 {
 
 .giraf {
   flex: 1;
-  margin: auto;
-  display: block;
+  height: 100vh;
   overflow: hidden;
-  background-color: deeppink;
+  /* background-color: deeppink; */
 }
 
 #giraf {
-  width: 100%;
+  width: 110%;
+  position: relative;
+  left: -17vh;
+  top: -20vh;
 }
 
 /* sektion 2 */
