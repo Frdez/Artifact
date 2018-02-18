@@ -1,5 +1,7 @@
 body {
   margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  /* font-family: 'Work Sans', sans-serif; */
 }
 
 
@@ -15,6 +17,7 @@ body {
 /* sektion 2 */
 #section2 {
   height: 100vh;
+  overflow: hidden;
 }
 
 .flex-section-2 {
