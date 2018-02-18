@@ -118,6 +118,12 @@ h1 {
   background-color: #f2f2f2;
 }
 
+.flex-section-3 {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
 .elg {
 flex: 1;
 height: 80vh;
@@ -125,7 +131,7 @@ overflow: hidden;
 }
 
 #elg {
-  width: 58.6%;
+  width: 130%;
 }
 
 
