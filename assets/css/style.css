@@ -192,11 +192,11 @@ overflow: hidden;
 }
 
 .flex-logos {
+  width: 50%;
   display: flex;
   flex-direction: row;
   margin: auto;
   justify-content: center;
-  width: 50vh;
 }
 
 #section6 h3 {
