@@ -2,9 +2,11 @@ body {
   margin: 0;
 }
 
+
 /* Sektion 1 */
 #section1 {
   height: 100vh; /* højde 100% på alle skærme */
+  width: 100%;
   background-image: url('assets/images/header.png') /* header bg */
 }
 
