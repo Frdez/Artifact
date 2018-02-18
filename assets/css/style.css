@@ -134,11 +134,22 @@ h1 {
   width: 70%;
   margin: auto;
 }
+.flex-tekst {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 70%;
+  margin: auto;
+}
 
 .flex-1 {
   flex: 1;
   width: 20%;
   overflow: hidden;
+}
+.flex-tekst h3 {
+  flex: 1;
+  text-align: center;
 }
 
 .flex-1 img {
