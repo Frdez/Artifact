@@ -1,9 +1,13 @@
 body {
   margin: 0;
-  font-family: 'Open Sans', sans-serif;
-  /* font-family: 'Work Sans', sans-serif; */
 }
 
+
+#section1 img {
+  width: 100%;
+  position: absolute;
+  height: 100vh;
+}
 
 /* Sektion 1 */
 #section1 {
@@ -11,13 +15,11 @@ body {
   width: 100%;
   overflow: hidden;
   background-image: url('assets/images/header.png') /* header bg */
-
 }
 
 /* sektion 2 */
 #section2 {
   height: 100vh;
-  overflow: hidden;
 }
 
 .flex-section-2 {
