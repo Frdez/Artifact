@@ -38,6 +38,7 @@ nav li:last-child {
   width: 100%;
   overflow: hidden;
   background-image: url('assets/images/header.png'); /* header bg */
+  background-color: #f2f2f2;
 }
 
 
