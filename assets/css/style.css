@@ -5,13 +5,15 @@ body {
 }
 
 nav {
-margin: 4%;
+  margin-left: 2%;
+  margin-right: 2%;
 }
 
 nav ul {
   list-style: none;
   display: flex;
   justify-content: flex-end;
+
 }
 
 nav a {
@@ -36,11 +38,16 @@ nav li:last-child {
 }
 
 h1 {
-  text-align: center;
   font-family: 'Work Sans', sans-serif;
-  font-size: 75px;
+  font-size: 70px;
   font-weight: 900;
   color: #9f2429;
+  margin: 0;
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
   }
 
 #section1 img {
