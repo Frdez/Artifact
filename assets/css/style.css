@@ -2,6 +2,11 @@ body {
 
 }
 
+header {
+  width: 100%;
+
+}
+
 /* Sektion 1 */
 #section1 {
   height: 100vh; /* højde 100% på alle skærme */
