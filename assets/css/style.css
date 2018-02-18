@@ -4,18 +4,34 @@ body {
   /* font-family: 'Work Sans', sans-serif; */
 }
 
+nav {
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+nav li {
+  padding-right: 1%;
+}
 
 /* Sektion 1 */
 #section1 {
   height: 100vh; /* højde 100% på alle skærme */
   width: 100%;
   overflow: hidden;
-  background-image: url('assets/images/header.png') /* header bg */
+  background-image: url('assets/images/header.png'); /* header bg */
 }
 
 h1 {
   text-align: center;
   font-family: 'Work Sans', sans-serif;
+  font-size: 75px;
   font-weight: 900;
   color: #9f2429;
   }
