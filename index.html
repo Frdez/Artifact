@@ -17,14 +17,36 @@
         <img id="headerbackground" src="assets/images/headerbackground.png" alt="headerbackground"> <!-- logo -->
         <nav> <!-- navigation bar -->
           <ul>
-            <li><a href="">PROJEKTER</a></li>
-            <li><a href="">OM OS</a></li>
-            <li><a href="">HVORFOR OS?</a></li>
-            <li><a href="">KONTAKT</a></li>
+            <li><a onclick="PROJEKTER()">PROJEKTER</a></li>
+            <li><a onclick="omos()">OM OS</a></li>
+            <li><a onclick="HvorforOs()">HVORFOR OS?</a></li>
+            <li><a onclick="KONTAKT()">KONTAKT</a></li>
           </ul>
         </nav>
         <h1>Kom endnu tættere på</h1> <!-- Header tekst -->
       </header>
+
+      <script>
+    function PROJEKTER() {
+        var elmnt = document.getElementById("#");
+        elmnt.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
+    }
+
+    function omos() {
+        var elmnt = document.getElementById("section2");
+        elmnt.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
+    }
+
+    function HvorforOs() {
+        var elmnt = document.getElementById("section3");
+        elmnt.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
+    }
+
+    function KONTAKT() {
+        var elmnt = document.getElementById("section7");
+        elmnt.scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
+    }
+    </script>
 
       <section id="section2"><!-- sektion 2 (about/giraf) -->
         <div class="flex-section-2"> <!-- Flexer sektionen -->
