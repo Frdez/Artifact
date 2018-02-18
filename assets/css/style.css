@@ -20,6 +20,10 @@ nav li {
   padding-right: 1%;
 }
 
+nav li:last-child {
+  padding-right: 0;
+}
+
 /* Sektion 1 */
 #section1 {
   height: 100vh; /* højde 100% på alle skærme */
