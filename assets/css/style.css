@@ -17,6 +17,13 @@ body {
   background-image: url('assets/images/header.png') /* header bg */
 }
 
+#headertekst {
+  text-align: center;
+  font-family: Work Sans;
+  font-weight: 
+  color: #9f2429;
+}
+
 /* sektion 2 */
 #section2 {
   height: 100vh;
