@@ -5,8 +5,9 @@ body {
 }
 
 nav {
-  margin-left: 2%;
-  margin-right: 2%;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 nav ul {
@@ -19,6 +20,7 @@ nav ul {
 nav a {
   text-decoration: none;
   font-family: 'Work Sans', sans-serif;
+  color: black;
 }
 
 nav li {
@@ -37,6 +39,7 @@ nav li:last-child {
   background-image: url('assets/images/header.png'); /* header bg */
 }
 
+
 h1 {
   font-family: 'Work Sans', sans-serif;
   font-size: 70px;
@@ -45,12 +48,7 @@ h1 {
   position: relative;
   top: 25%;
   text-align: center;
-  /* margin: 0;
-  position: absolute;
-  top: 35%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%); */
+
   }
 
 #section1 img {
