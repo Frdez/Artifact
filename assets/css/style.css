@@ -5,15 +5,18 @@ body {
 }
 
 nav {
+margin: 4%;
 }
 
 nav ul {
   list-style: none;
   display: flex;
+  justify-content: flex-end;
 }
 
 nav a {
   text-decoration: none;
+  font-family: 'Work Sans', sans-serif;
 }
 
 nav li {
