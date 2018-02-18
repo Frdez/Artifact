@@ -102,22 +102,45 @@ h1 {
   top: -20vh;
 }
 
-/* sektion 2 */
+/* sektion 3 */
 #section3 {
   height: 80vh;
 }
 
-/* sektion 2 */
+/* sektion 4 */
 #section4 {
   height: 100vh;
 }
 
-/* sektion 2 */
+/* sektion 5 */
 #section5 {
-  height: 30vh;
+  height: 45vh;
+  overflow: hidden;
+  background-color: #D8CEC1;
 }
 
-/* sektion 2 */
+.flex-values {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 70%;
+  margin: auto;
+}
+
+.flex-1 {
+  flex: 1;
+  width: 20%;
+  overflow: hidden;
+}
+
+.flex-1 img {
+  width: 45%;
+  margin: auto;
+  display: block;
+  margin-top: 10%;
+}
+
+/* sektion 6 */
 #section6 {
   height: 80vh;
 }
