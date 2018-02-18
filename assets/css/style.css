@@ -15,7 +15,8 @@ body {
 
 h1 {
   text-align: center;
-  font-family: Work Sans;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 900;
   color: #9f2429;
   }
 
