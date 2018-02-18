@@ -144,8 +144,10 @@ overflow: hidden;
 /* sektion 5 */
 #section5 {
   height: 45vh;
+  width: 100%;
   overflow: hidden;
   background-color: #D8CEC1;
+  margin: 0;
 }
 
 .flex-values {
@@ -178,17 +180,35 @@ overflow: hidden;
   width: 45%;
   margin: auto;
   display: block;
-  margin-top: 10%;
+  margin-top: 5vh;
 }
 
 /* sektion 6 */
 
-.flex-logos {
+#section6 {
+  height: 70vh;
+  width: 100%;
+  background-color: #B5B393;
+}
 
+.flex-logos {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+  justify-content: center;
+  width: 50vh;
+}
+
+#section6 h3 {
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 3.5vh;
+  padding-top: 4vh;
 }
 
 .flex-1-logos {
-
+  flex: 1;
+  width: 100%;
 }
 
 /* sektion 7 */
