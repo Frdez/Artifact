@@ -37,7 +37,7 @@ nav li:last-child {
   height: 100vh; /* højde 100% på alle skærme */
   width: 100%;
   overflow: hidden;
-  /* background-image: url('assets/images/header.png'); /* header bg */ */
+  background-color: #f2f2f2;
 }
 
 
