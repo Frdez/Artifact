@@ -126,6 +126,11 @@ h1 {
 .about-text1 {
   flex: 1;
   order: 2;
+  text-align: center;
+  line-height: 1.5;
+  margin: auto;
+  display: block;
+  padding: 5%;
 }
 
 .elg {
@@ -135,7 +140,7 @@ overflow: hidden;
 }
 
 #elg {
-  width: 120%;
+  width: 120vh;
 }
 
 
