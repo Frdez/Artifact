@@ -173,7 +173,7 @@ h1 {
   line-height: 1.5;
   margin: auto;
   display: block;
-  padding: 5%;
+  padding-right: 5%;
   font-weight: 300;
 }
 
@@ -208,14 +208,14 @@ overflow: hidden;
 .elg {
   flex: 1;
   order: 2;
-  height: 100vh;
+  height: 80vh;
   overflow: hidden;
 }
 
 #elg {
   width: 120vh;
   position: relative;
-  left: -17vh;
+  left: -9vh;
 }
 
 .why-us-text {
@@ -225,7 +225,7 @@ overflow: hidden;
   line-height: 1.5;
   margin: auto;
   display: block;
-  padding: 5%;
+  padding-left: 5%;
   font-weight: 300;
 
 }
@@ -235,7 +235,7 @@ overflow: hidden;
   height: 45vh;
   width: 100%;
   overflow: hidden;
-  background-color: #D8CEC1;
+  background-color: #B5B393;
   margin: 0;
 }
 
@@ -277,7 +277,7 @@ overflow: hidden;
 #section6 {
   height: 70vh;
   width: 100%;
-  background-color: #B5B393;
+  background-color: #d9d9d9;
 }
 
 .flex-logos {
