@@ -262,11 +262,12 @@ overflow: hidden;
 .flex-pictures {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+    justify-content: space-around;
+    margin: auto;
+    width: 60vw;
 }
 
 .flex-pictures img {
-  margin-right: 15vh;
   width: 25vh;
   height: 100%;
 }
@@ -275,7 +276,34 @@ overflow: hidden;
   margin-right: 0;
 }
 
+div.flex-pic-text {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 60vw;
+}
+
+div.flex-pic-text h3 {
+    text-align: center;
+}
+
+
 /* footer */
 #footer {
+  padding: 3vh;
+  background-color: #D1C7B9;
+}
 
+.icons {
+  float: left;
+}
+
+.icons img {
+  margin-right: 2vh;
+}
+
+.artifactsolutions {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
 }
