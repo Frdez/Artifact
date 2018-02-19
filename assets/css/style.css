@@ -136,6 +136,7 @@ h1 {
 }
 
 .about-text1 {
+  font-size: 2vh;
   flex: 1;
   order: 2;
   text-align: center;
@@ -145,13 +146,13 @@ h1 {
   padding: 5%;
 }
 
-.elg {
+.lion {
 flex: 1;
 height: 80vh;
 overflow: hidden;
 }
 
-#elg {
+#lion {
   width: 90vh;
   position: relative;
   left: -10vh;
