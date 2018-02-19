@@ -287,6 +287,14 @@ div.flex-pic-text h3 {
     text-align: center;
 }
 
+div.flex-pic-text2 {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 60vw;
+}
+
+
 
 /* footer */
 #footer {
