@@ -224,6 +224,10 @@ overflow: hidden;
   width: 100%;
 }
 
+.flex-1-logos img {
+  width: 25vh;
+}
+
 /* sektion 7 */
 #section7 {
   height: 80vh;
