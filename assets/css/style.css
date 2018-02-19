@@ -194,7 +194,40 @@ overflow: hidden;
 
 /* sektion 4 */
 #section4 {
+  height: 80vh;
+  width: 100%;
+  background-color: #d1c7b9;
+}
+
+.flex-section-4 {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+.elg {
+  flex: 1;
+  order: 2;
   height: 100vh;
+  overflow: hidden;
+}
+
+#elg {
+  width: 120vh;
+  position: relative;
+  left: -17vh;
+}
+
+.why-us-text {
+  font-size: 2vh;
+  flex: 1;
+  order: 1;
+  line-height: 1.5;
+  margin: auto;
+  display: block;
+  padding: 5%;
+  font-weight: 300;
+
 }
 
 /* sektion 5 */
