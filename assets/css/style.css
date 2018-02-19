@@ -34,6 +34,16 @@ nav li:last-child {
   padding-right: 0;
 }
 
+nav a:hover{
+    color: #9f2429;
+}
+
+nav a:active {
+    color: #D1C7B9;
+}
+
+
+
 /* Sektion 1 */
 #section1 {
   height: 105vh; /* højde 100% på alle skærme */
@@ -317,8 +327,12 @@ div.flex-pic-text3 p {
     margin: 5vh auto auto auto;
 }
 
-div.flex-pic-text4 p {
-    margin: 0;
+div.flex-pic-text4 {
+    margin-top: 4vh;
+}
+
+
+div.flex-pic-text4 p{
     text-align: center;
 }
 
