@@ -58,14 +58,31 @@ h1 {
   font-family: 'Work Sans', sans-serif;
   font-size: 8vh;
   font-weight: 900;
-  color: #9f2429;
+  color: white;
   position: relative;
-  top: 28%;
+  top: 25vh;
   text-align: center;
+  background-color: #9f2429;
+  width: 68vw;
+  margin: auto;
   }
 
-#section1 h2 {
+h2 {
+    padding: 15vh;
+  color: #9f2429;
+  font-size: 7vh;
+  font-weight: 900;
+}
 
+#section1 h2 {
+    padding: 0;
+    position: relative;
+    text-align: center;
+    top: 30vh;
+    background-color: #9f2429;
+    width: 30vw;
+    margin: auto;
+    color: white
 }
 
 
