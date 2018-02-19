@@ -173,7 +173,7 @@ h1 {
   line-height: 1.5;
   margin: auto;
   display: block;
-  padding-right: 5%;
+  padding: 5%;
   font-weight: 300;
 }
 
@@ -225,9 +225,8 @@ overflow: hidden;
   line-height: 1.5;
   margin: auto;
   display: block;
-  padding-left: 5%;
   font-weight: 300;
-
+  padding: 5%;
 }
 
 /* sektion 5 */
