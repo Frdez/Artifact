@@ -291,7 +291,22 @@ div.flex-pic-text2 {
     width: 60vw;
 }
 
+div.flex-pic-text2 p {
+    margin: 0;
+    text-align: center;
+}
 
+div.flex-pic-text3 {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 60vw;
+}
+
+div.flex-pic-text3 p {
+    margin: 0;
+    text-align: center;
+}
 
 /* footer */
 #footer {
