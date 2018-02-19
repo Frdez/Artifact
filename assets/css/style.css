@@ -35,7 +35,7 @@ nav li:last-child {
 
 /* Sektion 1 */
 #section1 {
-  height: 100vh; /* højde 100% på alle skærme */
+  height: 105vh; /* højde 100% på alle skærme */
   width: 100%;
   overflow: hidden;
   background-color: #f2f2f2;
@@ -66,12 +66,21 @@ h1 {
 #headerbackground {
   width: 100%;
   position: absolute;
-  height: 100vh;
+  height: 105vh;
+}
+
+#brush {
+  width: 100%;
+  position: absolute;
+  top: auto;
+  bottom: -5vh;
+  padding-right: 0
 }
 
 /* sektion 2 */
 #section2 {
   height: 100vh;
+  background-color: #D1C7B9;
 }
 
 .flex-section-2 {
