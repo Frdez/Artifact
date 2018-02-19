@@ -69,7 +69,7 @@ h1 {
   height: 105vh;
 }
 
-#brush {
+.brush {
   width: 100%;
   position: absolute;
   top: auto;
@@ -248,6 +248,28 @@ overflow: hidden;
 /* sektion 7 */
 #section7 {
   height: 80vh;
+}
+
+#section7 h2 {
+  text-align: center;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 3.5vh;
+}
+
+.flex-pictures {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.flex-pictures img {
+  margin-right: 15vh;
+  width: 25vh;
+  height: 100%;
+}
+
+.flex-pictures img:last-child {
+  margin-right: 0;
 }
 
 /* footer */
