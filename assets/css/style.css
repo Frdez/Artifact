@@ -285,15 +285,36 @@ div.flex-pic-text {
     width: 60vw;
 }
 
-div.flex-pic-text h3 {
-    text-align: center;
-}
 
 div.flex-pic-text2 {
     display: flex;
     justify-content: space-around;
     margin: auto;
     width: 60vw;
+}
+
+div.flex-pic-text2 p {
+    margin: 0;
+    text-align: center;
+}
+
+div.flex-pic-text3 {
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 60vw;
+}
+
+div.flex-pic-text3 p {
+    margin: 0;
+    text-align: center;
+}
+
+#section7 img.logo{
+    width: 8vh;
+    display: block;
+    margin: 5vh auto auto auto;
+
 }
 
 
