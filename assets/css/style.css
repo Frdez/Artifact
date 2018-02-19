@@ -316,8 +316,12 @@ div.flex-pic-text3 p {
     margin: 5vh auto auto auto;
 }
 
-div.flex-pic-text4 p {
-    margin: 0;
+div.flex-pic-text4 {
+    margin-top: 4vh;
+}
+
+
+div.flex-pic-text4 p{
     text-align: center;
 }
 
