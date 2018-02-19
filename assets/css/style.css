@@ -62,8 +62,12 @@ h1 {
   position: relative;
   top: 28%;
   text-align: center;
-
   }
+
+#section1 h2 {
+
+}
+
 
 #logo {
   position: absolute;
@@ -263,6 +267,7 @@ overflow: hidden;
 /* sektion 7 */
 #section7 {
   height: 80vh;
+  background-color: #f2f2f2;
 }
 
 #section7 h2 {
