@@ -126,7 +126,7 @@ h1 {
   height: 80vh;
   width: 100%;
   overflow: hidden;
-  background-color: #9f2429;
+  background-color: #B5B394;
 }
 
 .flex-section-3 {
@@ -152,7 +152,10 @@ overflow: hidden;
 }
 
 #elg {
-  width: 120vh;
+  width: 90vh;
+  position: relative;
+  left: -10vh;
+  top: 2vh;
 }
 
 
