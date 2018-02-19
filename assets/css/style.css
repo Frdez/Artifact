@@ -260,6 +260,7 @@ overflow: hidden;
   display: flex;
   flex-direction: row;
   justify-content: center;
+  margin: 0 20vw 0 20vw;
 }
 
 .flex-pictures img {
@@ -271,6 +272,14 @@ overflow: hidden;
 .flex-pictures img:last-child {
   margin-right: 0;
 }
+
+div.flex-pic-text {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20vw 0 20vw;
+}
+
+
 
 /* footer */
 #footer {
