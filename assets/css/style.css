@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
   /* font-family: 'Work Sans', sans-serif; */
 }
 
@@ -163,6 +164,8 @@ h1 {
   margin: auto;
 }
 
+
+
 .about-text1 {
   font-size: 2vh;
   flex: 1;
@@ -172,6 +175,7 @@ h1 {
   margin: auto;
   display: block;
   padding: 5%;
+  font-weight: 300;
 }
 
 .lion {
