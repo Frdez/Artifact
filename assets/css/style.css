@@ -286,6 +286,8 @@ overflow: hidden;
   text-align: center;
   font-family: 'Work Sans', sans-serif;
   font-size: 3.5vh;
+  margin: 0;
+  padding: 5vh;
 }
 
 .flex-pictures {
