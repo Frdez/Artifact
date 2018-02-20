@@ -310,7 +310,7 @@ overflow: hidden;
   flex-direction: row;
     justify-content: space-around;
     margin: auto;
-    width: 60vw;
+    width: 66vw;
 }
 
 .flex-pictures img {
@@ -326,7 +326,7 @@ div.flex-pic-text {
     display: flex;
     justify-content: space-around;
     margin: auto;
-    width: 60vw;
+    width: 66vw;
 }
 
 
@@ -334,7 +334,7 @@ div.flex-pic-text2 {
     display: flex;
     justify-content: space-around;
     margin: auto;
-    width: 60vw;
+    width: 66vw;
 }
 
 div.flex-pic-text2 p {
@@ -346,7 +346,7 @@ div.flex-pic-text3 {
     display: flex;
     justify-content: space-around;
     margin: auto;
-    width: 60vw;
+    width: 66vw;
 }
 
 div.flex-pic-text3 p {
