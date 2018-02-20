@@ -120,10 +120,10 @@ h1 {
 
 .about-text {
   flex:1;
-  text-align: center;
   line-height: 1.5;
   margin: auto;
   display: block;
+  padding: 10vh;
   /* background-color: deeppink; */
 }
 
@@ -172,7 +172,7 @@ h1 {
   line-height: 1.5;
   margin: auto;
   display: block;
-  padding: 5%;
+  padding: 10vh;
   font-weight: 300;
 }
 
