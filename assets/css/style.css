@@ -50,7 +50,7 @@ nav a:active {
   height: 105vh; /* højde 100% på alle skærme */
   width: 100%;
   overflow: hidden;
-  background-color: #f2f2f2;
+  /* background-color: #f2f2f2; */
 }
 
 
@@ -93,8 +93,9 @@ h1 {
 
 #headerbackground {
   width: 100%;
-  position: absolute;
+  position: fixed;
   height: 105vh;
+  z-index: -1;
 }
 
 .brush {
