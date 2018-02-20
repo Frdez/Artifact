@@ -237,6 +237,11 @@ overflow: hidden;
   margin: 0;
 }
 
+#section5 h2 {
+  text-align: center;
+  font-size: 3.5vh;
+}
+
 .flex-values {
   display: flex;
   flex-direction: row;
@@ -267,7 +272,7 @@ overflow: hidden;
   width: 45%;
   margin: auto;
   display: block;
-  margin-top: 8.5vh;
+  margin-top: 1vh;
 }
 
 /* sektion 6 */
