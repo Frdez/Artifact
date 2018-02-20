@@ -129,6 +129,9 @@ h1 {
 
 .about-text h2 {
   font-size: 3.5vh;
+  background-color: #9f2429;
+  color: white;
+  padding: 1vh;
 }
 .about-text p {
   font-size: 2vh;
@@ -155,6 +158,12 @@ h1 {
   width: 100%;
   overflow: hidden;
   background-color: #B5B394;
+}
+
+#section3 h2 {
+  background-color: #9f2429;
+  color: white;
+  padding: 1vh;
 }
 
 .flex-section-3 {
@@ -196,6 +205,12 @@ overflow: hidden;
   height: 80vh;
   width: 100%;
   background-color: #d1c7b9;
+}
+
+#section4 h2 {
+  background-color: #9f2429;
+  color: white;
+  padding: 1vh;
 }
 
 .flex-section-4 {
