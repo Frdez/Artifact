@@ -243,8 +243,12 @@ overflow: hidden;
   padding: 5%;
 }
 
-.why-us-text p span {
+.why-us-text p .fed {
   font-weight: 900;
+}
+
+.why-us-text p .italic {
+  font-style: italic;
 }
 
 /* sektion 5 */
