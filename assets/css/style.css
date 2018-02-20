@@ -243,6 +243,10 @@ overflow: hidden;
   padding: 5%;
 }
 
+.why-us-text p span {
+  font-weight: 900;
+}
+
 /* sektion 5 */
 #section5 {
   height: 45vh;
